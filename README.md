@@ -1,1 +1,1 @@
-# Yolo-v8
+# YOLO
